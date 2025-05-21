@@ -1,4 +1,4 @@
-# Peer-reviewed journal articles
+# Publications
 
 <!--
 Here is the template. Don't worry about the indexing. Github will figure it out for you
