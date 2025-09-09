@@ -1,4 +1,7 @@
-# Publications
+# Beauchamp Lab Publications
+
+
+[Back to Beauchamp Lab homepage](https://beauchamplab.med.upenn.edu)
 
 **PDFs of all publications from the Beauchamp Lab**
 
