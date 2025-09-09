@@ -1,5 +1,7 @@
 # Publications
 
+**PDFs of all publications from the Beauchamp Lab**
+
 <!--
 Here is the template. Don't worry about the indexing. Github will figure it out for you
 
