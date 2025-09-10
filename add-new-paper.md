@@ -10,7 +10,7 @@ If you plan not to include the PDF link, skip to the Step 2.
 
 <img width="188" alt="image" src="https://github.com/user-attachments/assets/0aff2d2b-e0d8-45ed-8b23-5b5c24bfc93a" />
 
-3. Drag the paper PDF to the attachment area
+3. Drag the paper PDF to the attachment area in the Assets section of the page (not the "Release Notes" section)
 
 <img width="744" alt="image" src="https://github.com/user-attachments/assets/3fa7e63a-32cb-4c24-8d54-f1153e6b8ffd" />
 
