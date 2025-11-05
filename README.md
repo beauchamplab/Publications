@@ -15,7 +15,7 @@ Here is the template. Don't worry about the indexing. Github will figure it out 
 
 ++ alternatively, you can use html
 
-1. Magnotti JF, Lado A, Beauchamp MS. The Noisy Encoding of Disparity Model Predicts Perception of the McGurk Effect in Native Japanese Speakers. Frontiers in Neuroscience (26 June 2024). 
+1. Oswalt D, Beauchamp MS, Chen HCI, Yoshor D. The Noisy Encoding of Disparity Model Predicts Perception of the McGurk Effect in Native Japanese Speakers. Frontiers in Neuroscience (26 June 2024). 
 <a rel="nofollow" class="external text" target="_blank" href="https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1421713">Click here for the journal full text</a> 
 <a target="_blank" href="https://s3-us-west-2.amazonaws.com/oww-files-public/c/c0/Magnotti_Lado_Beauchamp_Frontiers_2024_Japanese_McGurk.pdf" class="internal" title="Magnotti Lado Beauchamp Frontiers 2024 Japanese McGurk.pdf">Click here for the PDF</a> 
 <a rel="nofollow" class="external text" target="_blank" href="https://biorxiv.org/cgi/content/short/2024.04.29.591688v1">Click here for the preprint.</a>
